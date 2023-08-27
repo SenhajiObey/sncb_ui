@@ -13,13 +13,13 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 App using Material UI + ng2-charts
 
-+---app
-   +---components
-      +---graphs
-      +---home
-      +---maps
-      +---navbar
-   +---router
-   +---services
-+---assets
++-app\
+   +--components \
+      +---graphs\
+      +---home\
+      +---maps\
+      +---navbar\
+   +--router\
+   +--services\
++-assets\
 
